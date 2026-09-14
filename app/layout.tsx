@@ -6,8 +6,8 @@ export const metadata: Metadata = {
   title: "FIND-me",
   description: "Download Android games made with care.",
   verification: {
-    google: "VjsGz06pBR7aorFGEZkMM6nmvCPJUQ3G25ot9MJ99w0",
-  },
+  google: "4IIyFoeWyvdUvIYlnOXp9PWOABQYfmF3yVW-I_8BuCQ",
+},
 };
 
 export default function RootLayout({
